@@ -57,6 +57,9 @@ export const fetchPlayerInfo = async (playerId) => {
        },
       
     });
+    console.log("asdfghjk");
+    console.log("asdfghjk");
+    
     console.log(response.data.data);
     
     return response.data.data;
