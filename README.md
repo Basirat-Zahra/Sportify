@@ -1,2 +1,2 @@
 # Sportify
-Sportify is a full-stack web application built for streaming cricket-related content. It offers users access to live matches, highlights, player stats, and much more. The platform is designed to provide an engaging, real-time experience for cricket enthusiasts.
+Sportify is a web application designed to stream cricket-related content and provide an engaging platform for cricket enthusiasts. It offers tailored experiences for three types of users: Fan User, Admin, and Store Manager, each with specific roles and data interactions.
